@@ -1,0 +1,4 @@
+Rencana Genre Game
+  -adventure, jadi didalam game kita genre utama nya itu adalah horor dan aku ingin menambahkan unsur petualangan atau genre adventure.
+    petualangan nya berupa eksplor-eksplor mencari item untuk mendapatkan secret ending. 
+  - Puzle, menambahkan genre puzle kedalam game horor.
