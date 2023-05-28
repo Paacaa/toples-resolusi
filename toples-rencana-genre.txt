@@ -1,7 +1,7 @@
 Rencana Genre Game
   -adventure, jadi didalam game kita genre utama nya itu adalah horor dan aku ingin menambahkan unsur petualangan atau genre adventure.
-    petualangan nya berupa eksplor-eksplor mencari item untuk mendapatkan secret ending. 
+    petualangan nya berupa eksplor-eksplor mencari item untuk mendapatkan secret ending. dan mengalahkan bos-bos yang sangat kuat
   - Puzle, menambahkan genre puzle kedalam game horor.
    ~ Hident item
   - Online
-    ~ 4 vs 4
+    ~ 10 vs 10
